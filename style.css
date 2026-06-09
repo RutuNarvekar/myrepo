@@ -1,0 +1,4 @@
+/* Apply a simple background color to the whole page */
+body {
+    background-color: lightblue; /* You can use any valid CSS color */
+}
